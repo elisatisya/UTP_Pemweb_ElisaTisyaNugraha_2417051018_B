@@ -5,10 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   if (twEl) {
     const phrases = [
-      'Mahasiswi Ilmu Komputer Universitas Lampung',
-      'UI/UX Designer',
-      'Web Developer',
-      'Python Programmer'
+      'Mahasiswi Ilmu Komputer Universitas Lampung'
     ];
 
     let pi = 0;
